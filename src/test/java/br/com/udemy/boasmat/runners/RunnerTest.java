@@ -22,6 +22,10 @@ tags = {"@unitários" }, plugin = { "pretty", "html:target/report-html", "json:t
 		strict = false // passa td ou a maioria
 )
 public class RunnerTest {
+		//https://regex101.com/
+		//https://jex.im/regulex/#!flags=&re=
+	//http://srbarriga.herokuapp.com/
+	
 // teste por linha de comando	
 	// renomear a classe Runner > RunnerTest.java
 	// instalar o mvn no pc nas variaveis de ambiente
